@@ -1,0 +1,198 @@
+﻿<Tarea>
+Instrucciones para el Proyecto Final: Portafolio de Evidencias Web (Tercer Parcial)
+
+
+A continuación, se detallan los pasos e indicaciones para la entrega y evaluación de este tercer parcial.
+
+
+1. Integración de Evidencias (Tercer Parcial)
+​Deberán actualizar su portafolio en VS Code e integrar los trabajos más realizados en las dos asignaturas del semestre:
+
+
+Asignatura: Tercer Parcial (Páginas Web)
+​Creen una sección específica para este parcial donde muestren el código y el funcionamiento de sus actividades.
+​
+​Asignatura: Tercer Parcial (Diseño Digital)
+​En una sección visualmente atractiva, integrarán los productos de diseño que dan identidad al proyecto.
+
+
+
+
+​Optimización: Las imágenes deben estar guardadas dentro de la carpeta de su proyecto (por ejemplo, en una carpeta llamada /img o /imagenes) y vinculadas correctamente en su HTML con rutas relativas (ej. <img src="img/logo.png">).
+​
+En las páginas contenidas los nombres de las asignaturas deben incluir una Reflexión Personal sobre cada asignatura.
+
+
+
+
+</Tarea>
+
+<Promt>
+Quiero que revise mi portafolio si cumple con el requisito de la “Tarea”, sino haz que lo cumpla al 100% de los requisitos. Primero quiero que hagas la estructura del 3 parcial y luego En la parte de crear una reflexion, basate en las actividades y descripciones de cada tarea,donde se debe de estar en “menu.html” y “menud.html”
+
+
+<Actividades>
+PAGINAS WEB- PARCIAL 3: 4 ACTIVIDADES:
+1- Participación 3: Hosting
+2-Participación 4: El Viaje de una Página Web
+3-Participación 5: Las Reglas de Internet (Estándares W3C, Accesibilidad y SEO)
+4-Participación 6: Auditoría y Plan de Lanzamiento al Hosting
+</Actividades>
+Tengo los pdf en la carpeta de imágenes para que lo pongas en el 3 parcial con la descripción.
+
+
+
+
+Diseño Digital- PARCIAL 3: 10 ACTIVIDADES:
+1- Participación 2: Conociendo Photoshop
+2-Práctica 6: Restauración de fotografía
+3-Práctica 7: Aplicar color a Fotos Antiguas
+4-Práctica 8: Retoque de Piel (Eliminación de imperfecciones)
+5- Práctica 9: Estilización de Figura (Herramienta Licuar)
+6- Participación 3: El Arte del Retoque Fotográfico y la Ética Visual
+7- Participación 4: El Flujo de Trabajo Profesional (Destructivo vs. No Destructivo)
+8- Participación 5: Fotocomposición y Modos de Fusión
+9-Práctica 10: Collage Surrealista / Pop Art "Mi Mente en Capas"
+10- Práctica 11: Fotomontaje "Tú en un Mundo Extraño" (Doble Exposición o Integración Surrealista)
+</Actividades>
+Tengo los pdf en la carpeta de imágenes para que lo pongas en el 3 parcial en el apartado de la Descripcion te dare las instrucciones de la tarea en “InstruccionesD” para que perfecciones en la descripciones. Luego te dare un promt especializado para que personifique el tono, el vocabulario y la forma de expresarme en las descripciones.
+
+
+<InstruccionesD>
+1- Participación 2: Conociendo Photoshop
+NO tiene
+
+
+2-Práctica 6: Restauración de fotografía
+Con ayuda de Adobe Photoshop edita la fotografía adjuntada en esta actividad, implementa las herramientas explicadas en el video adjjunto para lograr una correcta edición de las imperfecciones que tiene la foto. 
+
+
+3-Práctica 7: Aplicar color a Fotos Antiguas:
+Objetivo: Transformar una imagen en blanco y negro a color utilizando capas de ajuste y modos de fusión.
+* Herramientas clave: Capas de Ajuste, Máscaras de Capa, Modos de Fusión (Color).
+Instrucciones:
+* Asegúrate de que la imagen esté en Modo RGB (Imagen > Modo > Color RGB).
+
+
+4-Práctica 8: Retoque de Piel (Eliminación de imperfecciones)
+Objetivo: Limpiar la piel de acné, manchas o cicatrices manteniendo la textura natural sin que parezca "plástico".
+* Herramientas clave: Pincel Corrector Puntual, Herramienta Parche y Tapón de Clonar.
+Instrucciones:
+* Importa la imagen y duplica la capa original (Ctrl+J) para trabajar de forma no destructiva.
+* Usa el Pincel Corrector Puntual para eliminar granitos pequeños con un solo clic.
+* Para zonas más grandes o manchas, utiliza la herramienta Parche, seleccionando el área afectada y arrastrándola hacia una zona de piel limpia.
+* Baja la opacidad de la capa retocada si el efecto se ve demasiado artificial.
+
+
+
+
+5- Práctica 9: Estilización de Figura (Herramienta Licuar)
+Objetivo: Aprender a modificar proporciones corporales de manera sutil y realista, cuidando que el fondo no se deforme.
+* Herramientas clave: Filtro > Licuar (Deformar hacia adelante, Reconstruir).
+Instrucciones:
+* Convierte la capa en un Objeto Inteligente (esto permite editar el filtro después si te pasas).
+* Ve al menú Filtro > Licuar.
+* Usa la herramienta Deformar hacia adelante con un pincel de tamaño grande y presión baja.
+* Empuja suavemente los bordes del cuerpo hacia adentro.
+* Tip: Usa la herramienta Congelar Máscara sobre las áreas que no quieres que se muevan (como el fondo o las manos) para evitar distorsiones del entorno.
+
+
+
+6- Participación 3: El Arte del Retoque Fotográfico y la Ética Visual
+
+
+Objetivo de la actividad
+​Investigar las técnicas profesionales de retoque fotográfico en Photoshop y analizar el impacto ético de la manipulación digital en la sociedad actual.
+​Instrucciones para el alumno
+1. ​Fase de Investigación: Investiga y documenta los siguientes puntos:
+
+
+   * ​¿Cómo funcionan las herramientas de clonación y corrección (Spot Healing Brush, Clone Stamp)?
+   * ​¿En qué consiste la técnica profesional de Separación de Frecuencias para el retoque de piel?
+   * ​Busca un caso real e histórico de "Escándalo por Photoshop" en la publicidad, revistas o redes sociales donde el exceso de retoque haya causado controversia.
+
+
+2. ​Fase de Producción (El Reel/TikTok): Crea un video vertical (9:16) con una duración de 60 a 90 segundos donde expongas tu investigación de forma creativa.
+
+
+   * ​Estructura del video:
+      * ​0:00 - 0:15 (El gancho): Muestra el caso de censura o "Photoshop fail" que investigaste.
+      * ​0:15 - 0:45 (La técnica): Explica brevemente en pantalla (puedes grabar tu monitor) qué es la Separación de Frecuencias o cómo se repara un error usando las herramientas de corrección.
+      * ​0:45 - final (La reflexión): Da tu opinión crítica sobre los límites éticos que debería tener un diseñador digital al retocar personas.
+
+
+7- Participación 4: El Flujo de Trabajo Profesional (Destructivo vs. No Destructivo)
+El Flujo de Trabajo Profesional (Destructivo vs No Destructivo)
+Objetivo de la actividad
+​Comprender la importancia de trabajar con métodos "no destructivos" en Photoshop para garantizar un flujo de trabajo editable, profesional y eficiente.
+​Instrucciones para el alumno
+1. ​Fase de Investigación: Investiga los pilares del diseño no destructivo en Photoshop. Debes definir con tus propias palabras:
+
+
+   * ​¿Cuál es la diferencia entre borrar píxeles y usar una Máscara de Capa (Layer Mask)?
+   * ​¿Qué ventajas ofrece un Objeto Inteligente (Smart Object) frente a una capa rasterizada común?
+   * ​¿Por qué se deben usar Capas de Ajuste (Adjustment Layers) en lugar de aplicar filtros directamente a la imagen?
+
+
+2. ​Fase de Producción (El Reel/TikTok): Diseña un video tutorial de "Tips de Photoshop" (60 segundos máximo) titulado: "No cometas este error en Photoshop".
+
+
+   * ​Estructura del video:
+      * ​0:00 - 0:10: Muestra la "forma incorrecta/destructiva" de hacer algo (por ejemplo, borrar el fondo con la goma de borrar).
+      * ​0:10 - 0:50: Muestra el "Modo Pro / No destructivo" (usar una máscara de capa o un objeto inteligente) mostrando la pantalla de tu Photoshop. Explica por qué es mejor este método.
+      * ​0:50 - 1:00: Llamado a la acción (ej. "¡Cuida tus píxeles y sígueme para más tips de diseño!").
+​Criterios de evaluación
+* ​Demostración correcta de las herramientas en Photoshop.
+* ​Uso de terminología técnica adecuada (Máscaras, Objetos Inteligentes, etc.).
+* ​Capacidad de síntesis para explicar un proceso técnico en un minuto.
+
+
+
+
+8- Participación 5: Fotocomposición y Modos de Fusión
+No lo hice
+9-Práctica 10: Collage Surrealista / Pop Art "Mi Mente en Capas"
+Objetivo de la práctica: Utilizar técnicas de selección precisa, recorte y composición para crear un collage digital que visualice los pensamientos, pasiones o la personalidad del alumno, integrando su propia imagen en un entorno abstracto o Pop Art.
+​Instrucciones para el alumno
+​Fase 1: Preparación de Materiales
+1. ​Tu Retrato (El Sujeto): Toma una fotografía tuya. Asegúrate de que la luz sea buena (no necesitas equipo profesional, la luz de una ventana funciona). Piensa en la pose: ¿Estás pensativo? ¿Gritando? ¿Sonriendo? Tu expresión guiará el concepto del collage.
+2. ​Tus Intereses (El Fondo): Reúne imágenes que representen quién eres: tus hobbies (un instrumento, un control de consola), tu música favorita (logotipos de bandas), lugares que te gusten, tus colores favoritos, texturas (papel rasgado, pintura, patrones), tipografías. Utiliza bancos de imágenes gratuitos (Unsplash, Pexels) para la búsqueda de estos recursos adicionales.
+​Fase 2: Ejecución en Photoshop
+1. ​Limpieza del Retrato: Importa tu foto a Photoshop y utiliza las herramientas de selección avanzada (como Select Subject, Quick Selection o Pen Tool) para eliminar el fondo. Necesitamos un recorte limpio de tu figura.
+2. ​Composición Creativa:
+   * ​Crea un nuevo documento. Elige un estilo: Surrealista (sueños) o Pop Art (colores vibrantes, patrones).
+   * ​"Abre tu mente": Un concepto clásico es recortar o desfasar una parte de tu cabeza y hacer que los elementos de tus intereses salgan de ella.
+   * ​Superposición de Capas: Apila tus imágenes recopiladas (instrumentos, patrones, etc.) de manera caótica pero organizada. Juega con la jerarquía visual.
+3. ​Técnicas de Integración:
+   * ​Modos de Fusión: Aplica diferentes modos de fusión (como Screen, Overlay, o Multiply) a las capas de fondo y texturas para que interactúen entre sí.
+   * ​Opacidad: Ajusta la opacidad de las capas para crear profundidad.
+   * ​Efectos de Papel Rasgado: Puedes usar pinceles o máscaras para que algunos elementos parezcan recortes físicos de una revista.
+4. ​Texto: Incorpora tu nombre o una frase que te defina con una tipografía atractiva.
+​Criterios de evaluación
+* ​Creatividad y Concepto: ¿Qué tan bien se comunican los intereses y la personalidad del alumno?
+* ​Técnica de Selección: Calidad del recorte de la fotografía personal.
+* ​Composición Visual: Equilibrio en la distribución de los elementos y uso efectivo de las capas.
+
+
+10- Práctica 11: Fotomontaje "Tú en un Mundo Extraño" (Doble Exposición o Integración Surrealista)
+Objetivo de la práctica: Demostrar dominio en la integración de iluminación y color para crear un fotomontaje fotorrealista donde el alumno sea el protagonista de un entorno fantástico o imposible. Se sugiere elegir entre dos estilos populares.
+​Instrucciones para el alumno
+​Elige uno de los siguientes dos estilos para tu fotomontaje personal:
+​Opción A: Doble Exposición Conceptual
+1. ​Tu Retrato: Necesitas un autorretrato de perfil o tres cuartos, preferiblemente con un fondo liso y alto contraste.
+2. ​El Paisaje Interpolar: Busca una imagen de un paisaje complejo: una ciudad de noche, un bosque frondoso, galaxias, etc.
+3. ​La Fusión:
+   * ​Usa el paisaje para "rellenar" la silueta de tu rostro.
+   * ​Aplica Modos de Fusión (como Screen o Lighten) para que los rasgos de tu rostro interactúen con el paisaje de fondo.
+   * ​Utiliza una Máscara de Capa para desvanecer suavement
+</InstruccionesD>
+
+
+<Descripcion>
+Contexto: Soy un estudiante de 18 años, apenas comence hacer esto hace 1 mes y medio, no conozco demasiado, puedes basarte en mis trabajos de este parcial como en los pasados, para dar un lenguaje estudiantil sin mucho tecnicismos, hablando como si lo estuviera platicando con una persona que conoces algunos aspectos tecnicos.
+Lenguaje: Humano, estudiantil, vocabulario normal con poquito palabra tecnicas
+PUBLICO: MAESTRO 
+Excepciones: Hay algunas tareas que no tiene trabajo como la participacion 5 y practica 9, en ese caso pon que no lo hice en la descripcion. No justifiques.
+<Descripcion>
+
+</Promt>
